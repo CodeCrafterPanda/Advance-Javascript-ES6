@@ -1,17 +1,18 @@
 # Advance-Javascript-ES6
 <br>
 
-# Task List:  <a href="http://thirsty-chandrasekhar-66128a.netlify.com" target="_blank">Demo</a>
-It is task list app , where you can add tasks & after adding tasks that can be filtered.<br>
-Developed Using HTML, JS and Materialize CSS
+# Book List:  <a href="http://thirsty-chandrasekhar-66128a.netlify.com" target="_blank">Demo</a>
+It is book list app , where you can add books & delete book from added list. Data persisted in local storage.<br>
+Developed Using HTML, JS (Classes) and Skeleton CSS
 <br>
 
-# Number Guessing Game:  <a href="http://wonderful-hermann-0e3cd2.netlify.com" target="_blank">Demo</a>
-It is number guessing game where you can guess number between 1 - 10 , You have only 3 guesses to win.<br>
-Developed Using HTML, JS and Skeleton CSS.
+# Track-Calorie App:  <a href="http://cocky-beaver-9ea931.netlify.com" target="_blank">Demo</a>
+It is calorie tracker, based on given meal and calories. Data persisted in local storage.<br>
+Developed Using HTML, JS (Functions as Controllers) and Materialize CSS
 <br>
 
-# Loan Calculator App:  <a href="http://cocky-beaver-9ea931.netlify.com" target="_blank">Demo</a>
-It is loan amount and EMI calculator, based on given input.<br>
-Developed Using HTML, JS and Bootstrap CSS
+# Github Finder App:  <a href="http://wonderful-hermann-0e3cd2.netlify.com" target="_blank">Demo</a>
+It is github user finder app,Where you can find user by username and get user data with latest 5 repositories and other data.<br>
+Developed Using Github API, HTML, JS (Classes) and Bootstrap CSS.
+
 
